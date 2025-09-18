@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+**'Just a entry level coder with ton of time to use on useless things'**
 **eorthePhobus/eorthePhobus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
